@@ -1,0 +1,1 @@
+PPC-Truco é um projeto de truco opensource desenvolvido em C# usando o .NET Framawork com a intuição de rodar em PDAs e Smartphones que possuam o .NET Framework Compact.
